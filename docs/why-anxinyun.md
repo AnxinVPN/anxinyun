@@ -14,7 +14,7 @@
 
 ### 🏗️ 自建，不做二道贩子
 
-安心云的网络是我们自己搭的：Cloudflare 全球边缘 + 多地区定点出口，覆盖 **8 个地区**——美国（圣何塞）、日本、新加坡、德国、印度（孟买）、英国、台湾、香港。40 个节点入口，多入口自动负载均衡，单线抖动自动切换。
+安心云的网络是我们自己搭的：Cloudflare 全球边缘 + 多地区定点出口，覆盖 **横跨五大洲的 10 个地区**——美国（圣何塞）、日本、新加坡、德国、印度（孟买）、英国、台湾、香港、巴西（圣保罗）、南非（开普敦）。46 个节点入口，多入口自动负载均衡，单线抖动自动切换。
 
 自建意味着：没有中间商经手你的数据，出问题不用等别人修。
 
@@ -30,17 +30,17 @@
 
 ### 🧪 先试，再谈钱
 
-邮箱验证后领取 **60 分钟免费试用**（每用户一次、1 台设备、无需绑定支付方式）。我们希望你用真实网络、真实设备试过之后，再做决定。
+邮箱验证后领取 **1 天免费试用**（每用户一次、1 台设备、无需绑定支付方式）。我们希望你用真实网络、真实设备试过之后，再做决定。
 
 ## 我们不做的
 
-- ❌ 不吹"绝对匿名""无法追踪"——技术上做不到的话不说
+- ✅ 把隐私做成默认配置：邮箱注册、节点零日志、数字资产付款
 - ❌ 不写"无限流量"——流量规则以套餐与结账页为准
-- ❌ 不做"官方 App"的虚假暗示——我们提供标准订阅格式，你用任何主流客户端都行
+- ✅ Android 官方 App 已发布（v1.1.0），一键连接不用折腾；iOS 还在规划，不吹"双端齐全"；不想用 App 的，标准订阅格式照样支持任何主流客户端
 - ❌ 不买假评论、不刷假数据——那是对信任的透支
 
 ## 现在开始
 
-[🎁 免费试用 60 分钟](https://xn--9kqy92a0id.com/login.html?utm_source=github&utm_medium=referral&utm_campaign=evergreen&utm_content=story-trial) ｜ [💰 查看套餐](https://xn--9kqy92a0id.com/pricing.html?utm_source=github&utm_medium=referral&utm_campaign=evergreen&utm_content=story-pricing)
+[🎁 免费试用 1 天](https://xn--9kqy92a0id.com/login.html?utm_source=github&utm_medium=referral&utm_campaign=evergreen&utm_content=story-trial) ｜ [💰 查看套餐](https://xn--9kqy92a0id.com/pricing.html?utm_source=github&utm_medium=referral&utm_campaign=evergreen&utm_content=story-pricing)
 
 > 实际体验因网络与位置而异。我们更希望你因为"他们把话说清楚了"而留下来，而不是因为一句广告。
