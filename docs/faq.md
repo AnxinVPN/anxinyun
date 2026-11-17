@@ -57,4 +57,4 @@ Netflix、Disney+、HBO、Hulu 等流媒体，以及 ChatGPT 等 AI 服务访问
 
 ---
 
-> 节点状态、新地区上线与使用技巧，第一时间发在 [Telegram 频道](https://t.me/anxinyun_net)。
+> 节点状态、新地区上线与使用技巧，第一时间发在 [Telegram 频道](https://t.me/anxinyun_vpn)。
