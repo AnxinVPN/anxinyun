@@ -181,5 +181,5 @@ $4.99 比九块九包月的贵，比免费的更贵。**但低价和免费的代
 
 ---
 
-> 🏠 官网：[xn--9kqy92a0id.com](https://xn--9kqy92a0id.com/?utm_source=github&utm_medium=referral&utm_campaign=evergreen&utm_content=readme-footer)
+> 🏠 官网：[安心云.com](https://安心云.com)
 > 本仓库仅用于技术说明与用户反馈，不含生产配置与密钥，与生产系统隔离。
