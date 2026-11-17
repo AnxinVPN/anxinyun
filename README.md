@@ -1,4 +1,64 @@
-# 🛡️ 安心云 | 安全，不该是奢侈品
+# 🛡️ 安心云 AnXinYun
+
+**自建服务器、自建节点的 VPN 订阅服务。横跨五大洲 · 10 个地区 · 46 个节点入口。邮箱注册，免费试一整天再决定。**
+
+[![Telegram](https://img.shields.io/badge/Telegram-频道-2CA5E0?logo=telegram&logoColor=white)](https://t.me/anxinyun_net)
+[![Android](https://img.shields.io/badge/App-Android_v1.1.0_已发布-3DDC84?logo=android&logoColor=white)](https://xn--9kqy92a0id.com/downloads/anxin-android-v1.1.0-arm64.apk)
+
+[🌐 官网](https://xn--9kqy92a0id.com/?utm_source=github&utm_medium=referral&utm_campaign=evergreen&utm_content=readme-home) · [🎁 免费试用一整天](https://xn--9kqy92a0id.com/login.html?utm_source=github&utm_medium=referral&utm_campaign=evergreen&utm_content=readme-trial) · [💰 套餐价格](https://xn--9kqy92a0id.com/pricing.html?utm_source=github&utm_medium=referral&utm_campaign=evergreen&utm_content=readme-pricing) · [🧪 检测你的网络出口](https://xn--9kqy92a0id.com/tools.html?utm_source=github&utm_medium=referral&utm_campaign=evergreen&utm_content=readme-tools)
+
+---
+
+## 我们和"卖机场"的不是一回事
+
+市面上大多数 VPN 是**转卖别人的线路**：上游是谁、机器在哪、还能开多久，全看二道贩子的心情。上游一涨价、一跑路，你的订阅第二天就进不去。
+
+**安心云是自己架服务器、自己开节点的。**
+
+| | 转卖机房（多数） | 安心云（自建） |
+|---|---|---|
+| 线路来源 | 批发别家的，加价转售 | **自建服务器，自有节点** |
+| 谁在维护 | 不知道 | 我们自己 |
+| 节点会不会突然消失 | 上游说停就停 | 我们扩容，不缩水 |
+| 能不能追责 | 找不到人 | 找得到 |
+
+**自建意味着**：这台机器在哪、跑什么、给谁用，我们自己说了算。也意味着我们敢让你先试一整天——线路不稳的东西，没人敢让人白用 24 小时。
+
+---
+
+## 你能拿它干什么
+
+### 📺 看视频，不用等
+YouTube 转圈、画质自动掉到 480P——不是你的网慢，是你到目标服务器的路径堵了。
+**安心云**：自建节点按你位置就近接入，一条路径拥堵自动切另一条。你继续看，不用管它在后面换了几次。
+
+### 🍿 想看的那部剧，不在你的地区
+Netflix、Disney+ 的片单按国家切，你想看的偏偏不在本地列表里。
+**安心云**：美国、日本、新加坡、英国、德国、巴西等 **10 个地区随时切**，一个订阅覆盖多种地区需求。
+*平台的内容策略会变，能不能看以平台当前规则为准。*
+
+### 🤖 AI 工具，别在关键时候断
+方案写了三页，光标停住，报错，上下文全丢。
+**安心云**：美国、日本等多地区出口，线路抖动自动切换；全程 TLS 1.3 加密。
+
+### ☕ 公共 Wi-Fi 上，你敢登网银吗
+同一网络里的其他人，理论上能看到你未加密的流量。
+**安心云**：你与网站之间全程加密（当前最高的 TLS 1.3），旁边的人只能看到一串解不开的数据。
+
+### 📱 懒得配置？用我们的 App
+复制链接、找配置、手动导入——这三步劝退很多人。App 把它变成一步：**登录 → 点连接**。
+Android 版已经可以下载使用了，详见下方。
+
+---
+
+## 📱 官方 Android App（v1.1.0 已发布）
+
+- 🔘 **一键连接**——打开就连，不碰配置文件
+- 🌍 **地区直接点**——10 个地区列表，不用记节点名
+- 📥 **订阅自动下发**——换设备不用重新折腾
+- 📊 **状态一目了然**——当前地区、连接时长、本次用量
+
+**现# 🛡️ 安心云 | 安全，不该是奢侈品
 
 **安全优先的自建 VPN 订阅服务。邮箱注册，60 分钟免费试用，先试再买。**
 
