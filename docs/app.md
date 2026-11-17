@@ -63,7 +63,7 @@ App 内部使用标准协议（VLESS + WebSocket + TLS 1.3）与官方节点，�
 ## 有问题想反馈
 
 遇到连不上、切换失败、闪退等问题，欢迎：
-- 在 [Telegram 频道](https://t.me/anxinyun_net) 留言（注明手机型号 + Android 版本 + 现象）；
+- 在 [Telegram 频道](https://t.me/anxinyun_vpn) 留言（注明手机型号 + Android 版本 + 现象）；
 - 或通过[官网支持入口](https://xn--9kqy92a0id.com/console.html#support)反馈。
 
 你的反馈会直接影响下一个版本。
