@@ -14,13 +14,13 @@
 - 换个"免费工具"，广告比剧还长
 
 **安心云怎么帮你**：
-- 美国、日本、新加坡等 8 个地区出口，随时切换你想看的区域
+- 美国、日本、新加坡等横跨五大洲的 10 个地区出口，随时切换你想看的区域
 - 多入口自动负载均衡，单线抖动自动切换——追剧不追转圈
 - 高带宽线路，高清视频更顺畅
 
-**小提醒**：服务可用性会因所在地区和平台策略变化；实际体验因网络与位置而异。先用 60 分钟免费试用，用你常看的剧实测。
+**小提醒**：服务可用性会因所在地区和平台策略变化；实际体验因网络与位置而异。先用 1 天免费试用，用你常看的剧实测。
 
-**适合你的套餐**：[个人版 $4.99/月](https://xn--9kqy92a0id.com/pricing.html?utm_source=github&utm_medium=referral&utm_campaign=evergreen&utm_content=persona-movie)。
+**适合你的套餐**：[Lite $4.99/月](https://xn--9kqy92a0id.com/pricing.html?utm_source=github&utm_medium=referral&utm_campaign=evergreen&utm_content=persona-movie)。
 
 ---
 
@@ -40,7 +40,7 @@
 
 **小提醒**：服务可用性会因所在地区和平台策略变化。
 
-**适合你的套餐**：[个人版或按设备数选](https://xn--9kqy92a0id.com/pricing.html?utm_source=github&utm_medium=referral&utm_campaign=evergreen&utm_content=persona-ai)。
+**适合你的套餐**：[Lite或按设备数选](https://xn--9kqy92a0id.com/pricing.html?utm_source=github&utm_medium=referral&utm_campaign=evergreen&utm_content=persona-ai)。
 
 ---
 
@@ -59,11 +59,11 @@
 - **USDT 数字资产支付**（TRC20/ERC20/BEP20 等）——账单不经银行流水
 - **TLS 1.3 全程加密**——公共 Wi-Fi 下也安心
 
-**我们把话说透**：没有"不被追踪"的 VPN，这是技术事实。我们能做的是把暴露面压到诚实可说的最低——**每少留一次痕迹，就少一分暴露**。谁跟你承诺"绝对匿名"，你就该多留个心眼。
+**我们的做法**：注册只要邮箱，不要真名和手机号；节点零日志，上网行为不留记录；支持 USDT 等数字资产付款，账单不经银行流水。**你留下的痕迹，比用大厂产品少得多。**
 
 **隐私细节**：账户管理仍保留必要的订单、设备登记和安全事件记录，详见[隐私政策](https://xn--9kqy92a0id.com/privacy.html?utm_source=github&utm_medium=referral&utm_campaign=evergreen&utm_content=persona-privacy)。
 
-**适合你的套餐**：[个人版](https://xn--9kqy92a0id.com/pricing.html?utm_source=github&utm_medium=referral&utm_campaign=evergreen&utm_content=persona-privacy)。
+**适合你的套餐**：[Lite](https://xn--9kqy92a0id.com/pricing.html?utm_source=github&utm_medium=referral&utm_campaign=evergreen&utm_content=persona-privacy)。
 
 ---
 
@@ -82,7 +82,7 @@
 - 多入口自动切换，视频通话更顺畅
 - 香港、台湾、日本、新加坡等临近出口可选
 
-**适合你的套餐**：[个人版起步，设备多选多设备版](https://xn--9kqy92a0id.com/pricing.html?utm_source=github&utm_medium=referral&utm_campaign=evergreen&utm_content=persona-overseas)。
+**适合你的套餐**：[Lite起步，设备多选Pro](https://xn--9kqy92a0id.com/pricing.html?utm_source=github&utm_medium=referral&utm_campaign=evergreen&utm_content=persona-overseas)。
 
 ---
 
@@ -95,13 +95,13 @@
 - 一家人用同一服务，设备数抠得死死的
 
 **安心云怎么帮你**：
-- 个人版 **3 台**、多设备版 **5 台**授权设备额度，一份订阅照顾全家
+- Lite **3 台**、Pro **5 台**授权设备额度，一份订阅照顾全家
 - 每台设备各自导入同一个订阅链接，走各自的设备额度
 - 年付再省 20%–25%，折合每月一杯咖啡钱
 
 **小提醒**：设备登记数不代表同时在线数。
 
-**适合你的套餐**：[多设备版 Cloud Core $7.99/月](https://xn--9kqy92a0id.com/pricing.html?utm_source=github&utm_medium=referral&utm_campaign=evergreen&utm_content=persona-family)。
+**适合你的套餐**：[Pro $7.99/月](https://xn--9kqy92a0id.com/pricing.html?utm_source=github&utm_medium=referral&utm_campaign=evergreen&utm_content=persona-family)。
 
 ---
 
@@ -118,20 +118,21 @@
 - 标准协议：VLESS + WS + TLS 1.3
 - 标准订阅格式：base64 与 Clash YAML（显式参数输出）
 - 技术透明仓库（你正在看的地方）+ 公开路线图 + 如实的边界说明
-- 40 个逻辑节点入口、8 个地区，多入口自动切换
+- 想省事的直接用我们的 Android App（[v1.1.0 已发布](https://xn--9kqy92a0id.com/downloads/anxin-android-v1.1.0-arm64.apk)，底层同一套协议与节点）
+- 46 个逻辑节点入口、横跨五大洲的 10 个地区，多入口自动切换
 
 **先看[订阅链接安全说明](subscription-link-is-a-credential.md)和[公开路线图](../ROADMAP.md)，再决定要不要试。**
 
-**适合你的套餐**：[先领 60 分钟试用](https://xn--9kqy92a0id.com/login.html?utm_source=github&utm_medium=referral&utm_campaign=evergreen&utm_content=persona-dev)。
+**适合你的套餐**：[先领 1 天试用](https://xn--9kqy92a0id.com/login.html?utm_source=github&utm_medium=referral&utm_campaign=evergreen&utm_content=persona-dev)。
 
 ---
 
 ## 不适合你的情况（诚实版）
 
-- 想要"绝对匿名、无法追踪"的——这种承诺我们给不了，谁能给你要小心
-- 需要"官方 App 一键全家桶"的——我们目前提供标准订阅格式给主流客户端使用
-- 预算严格为 $0 的——60 分钟试用免费，但持续服务需要付费，这是自建网络的成本现实
+- 想把所有痕迹都彻底抹掉的——我们能大幅减少，但任何联网服务都无法做到零痕迹
+- 需要 iOS 官方 App 的——目前只有 Android 版已发布，iOS 在规划中（不想用 App 的，标准订阅照样能用）
+- 预算严格为 $0 的——1 天试用免费，但持续服务需要付费，这是自建网络的成本现实
 
 ---
 
-> [🎁 免费试用 60 分钟](https://xn--9kqy92a0id.com/login.html?utm_source=github&utm_medium=referral&utm_campaign=evergreen&utm_content=persona-footer) ｜ [💰 查看套餐](https://xn--9kqy92a0id.com/pricing.html?utm_source=github&utm_medium=referral&utm_campaign=evergreen&utm_content=persona-footer) ｜ [🏠 官网](https://xn--9kqy92a0id.com/?utm_source=github&utm_medium=referral&utm_campaign=evergreen&utm_content=persona-footer)
+> [🎁 免费试用 1 天](https://xn--9kqy92a0id.com/login.html?utm_source=github&utm_medium=referral&utm_campaign=evergreen&utm_content=persona-footer) ｜ [💰 查看套餐](https://xn--9kqy92a0id.com/pricing.html?utm_source=github&utm_medium=referral&utm_campaign=evergreen&utm_content=persona-footer) ｜ [🏠 官网](https://xn--9kqy92a0id.com/?utm_source=github&utm_medium=referral&utm_campaign=evergreen&utm_content=persona-footer)
