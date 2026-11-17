@@ -35,5 +35,5 @@
 
 ---
 
-> 想第一时间知道更新？关注 [Telegram 频道](https://t.me/anxinyun_net)。
+> 想第一时间知道更新？关注 [Telegram 频道](https://t.me/anxinyun_vpn)。
 > 返回 [README](README.md) · [官网](https://xn--9kqy92a0id.com/?utm_source=github&utm_medium=referral&utm_campaign=evergreen&utm_content=roadmap-home)
